@@ -1,7 +1,7 @@
 echo 'This is a batch command'
-md Testy
-md Testz
-md Testl
+md Test101
+md Test102
+md Test103
 
 
 
